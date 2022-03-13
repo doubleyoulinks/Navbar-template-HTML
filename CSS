@@ -1,0 +1,18 @@
+.navbar {
+color: white;
+font-family: arial;
+text-decoration: none;
+}
+
+.navbar a:hover {
+color: Yellow;
+font-family: arial;
+text-decoration: none;
+}
+
+.navbar-selected {
+color: orange;
+font-family: arial;
+text-decoration: none;
+border-radius: 30px 30px;
+}
